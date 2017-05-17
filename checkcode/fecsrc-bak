@@ -1,0 +1,34 @@
+{
+  "htmlcs": {
+    "max-len": false,
+    "asset-type": false,
+    "style-disabled": false,
+    "lowercase-id-with-hyphen": false,
+    "lowercase-class-with-hyphen": false,
+    "indent-char": false,
+    "self-close": false,
+    "img-width-height": false,
+    "attr-lowercase": false,
+    "img-src": false,
+    "label-for-input": false,
+    "bool-attribute-value": false,
+    "attr-no-duplication": false
+  },
+  "csshint": {
+    "disallow-important": false
+  },
+  "eslint": {
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "rules": {
+      "no-console": 0,
+      "fecs-valid-jsdoc": 0,
+      "fecs-eol-last": 0,
+      "no-var": false,
+      "no-unused-vars": false,
+      "semi": 2
+    }
+  }
+}
